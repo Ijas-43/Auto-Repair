@@ -1,0 +1,51 @@
+
+.banner-padding{
+  padding-bottom: 60px;
+}
+.form-control{
+  border: 0;
+  height: 50px;
+  border-radius: 0;
+}
+
+.form-control:focus
+{
+
+  box-shadow: none;
+  outline: 0;
+}
+  .text-warning{
+    color:#f9d342
+  }
+  .border-warning{
+    border-color: #f9d342;
+  }
+  .btn-bg{
+    background-color: #f9d342;
+
+    }
+
+.bg{
+  background: black;
+}
+.contact-img{
+  width: 100%;
+}
+.form-control{
+  border: 0;
+  height: 50px;
+  border-radius: 0;
+  border-bottom: 1px solid #ebebeb;
+ }
+
+ .form-control:focus
+ {
+  border-bottom: 1px solid #007bff;
+  box-shadow: none;
+  outline: 0;
+  background-color: #ebebeb;
+ }
+ textarea{
+  height: 190px !important;
+ }
+ 
